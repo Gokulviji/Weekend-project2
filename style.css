@@ -1,0 +1,322 @@
+body{
+    margin: 0;
+}
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.one{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    padding-left: 600px;
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.one,a{
+   color: white;
+}
+.one1{
+    margin-left: 300px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.two{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.three>a{
+    color: black;
+    padding-left: 50px;
+    text-decoration: none;
+}
+.three{
+    margin-top: 30px;
+    margin-left: 100px;
+    font-size: 23px;
+}
+.four1>a{
+    color: black;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.four1{
+    margin-top: 150px;
+    margin-left: 200px;
+    width: 40%;
+}
+.four1>h1{
+    font-size: 40px;
+    margin-top: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.four1>p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(46, 44, 44);
+}
+.four2{
+    margin-top: 200px;
+    margin-left: 50px;
+    width: 50%;
+    height: 700px;
+    
+}
+.four{
+    display: flex;
+}
+.four2>img{
+    width: 100%;
+    height: 100%;
+}
+.five1{
+    border: 1px solid black;
+    display:inline-block;
+    padding: 50px 50px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 50px;
+    
+}
+.five1>img{
+    width: 20%;
+    border-radius: 50px;
+}
+.five1>p{
+    font-size: large;
+}
+#logo4{
+    width: 45px;
+}
+#logo2{
+    background-color: rgb(208, 9, 9);
+}
+.five{
+    margin-left: 200px;
+}
+.five2{
+    border: 1px solid black;
+    display:inline-block;
+    padding: 50px 90px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 50px;
+
+}
+#logo2>h1,p{
+    color: white;
+}
+.fa-heart{
+    font-size: 30px;
+    padding-left: 80px;
+}
+.fa-cart-shopping{
+    font-size: 30px;
+    padding-left: 50px;
+}
+.fa-user{
+    font-size: 30px;
+    padding-left: 50px;
+}
+.three2>h6{
+    border: 2px solid black;
+    padding: 20px 60px ;
+    border-radius: 10px;
+    margin-left: 200px;
+}
+.three2{
+    margin-top: -10px;
+}
+.three1{
+    margin-top: 20px;
+}
+.six1{
+    width: 350px;
+    height: 350px;
+    margin-left: 200px;
+    border: 1px solid black;
+    background-image: url(images/six1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color:rgb(238, 229, 229);
+    
+
+}
+.six1>img{
+    width: 100%;
+}
+.six1>h6{
+   margin-top: -10px;
+}
+
+.six2{
+    width: 350px;
+    height: 50px;
+    margin-left: 200px;
+
+}
+.six2>img{
+    width: 100%;
+}
+.six3>h6{
+   margin-top: -10px;
+}
+
+.six{
+    display: flex;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.six2{
+    width: 350px;
+    height: 350px;
+    margin-left: 200px;
+    border: 1px solid black;
+    background-image: url(images/six2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color:rgb(238, 229, 229);
+    
+
+}
+.six3{
+    width: 350px;
+    height: 350px;
+    margin-left: 200px;
+    border: 1px solid black;
+    background-image: url(images/six3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color:rgb(238, 229, 229);
+    
+
+}
+.six4{
+    margin-top: 370px;
+}
+.six4>h6{
+    margin-top: -15px;
+}
+.fa-twitter{
+    font-size: 20px;
+}
+.fa-instagram{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.fa-linkedin{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.six5{
+    margin-top: 150px;
+    margin-left: 47%;
+}
+.seven1{
+    border: 1px solid white;
+    display:inline-block;
+    padding: 50px 50px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 50px;
+    
+}
+.seven1>img{
+    width: 20%;
+    border-radius: 50px;
+}
+.seven1>p{
+    font-size: large;
+}
+#logo4{
+    width: 45px;
+}
+
+
+.seven{
+    margin-left: 200px;
+}
+.seven2{
+    border: 1px solid white;
+    display:inline-block;
+    padding: 50px 90px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 50px;
+
+}
+#logo2>h1,p{
+    color: white;
+}
+.seven{
+    margin-top: -150px;
+    margin-left: 250px;
+}
+footer{
+    background-color: black;
+    color: white;
+    margin-top: 80px;
+}
+.eight{
+height: 500px;
+display: flex;
+}
+.eight1{
+    margin-left: 150px;
+    padding-top: 100px;
+    width: 200px;
+
+}
+.eight1>h6{
+    border: 1px solid white;
+    display: inline;
+    padding: 10px 30px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.eight2{
+     display: flex;
+}
+#eight3{
+    width: 150px;
+    height: auto;
+}
+#eight4{
+    width: 150px;
+    height: auto;
+    background-color: white;
+}
+.fa-square-facebook{
+    font-size: 20px;
+}
+.fa-twitter{
+    padding-left: 30px;
+}
+.fa-instagram{
+    padding-left: 30px;
+}
+.fa-linkedin{
+    padding-left: 30px;
+}
+.eight5{
+color: white;
+text-align: center;
+padding-bottom: 25px;
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.eight6{
+    height: 50px;
+}
+.three2>h6{
+   font-size: 10px;
+}
+.fa-magnifying-glass{
+    padding-left: 20px;
+    font-size: 20px;
+}
